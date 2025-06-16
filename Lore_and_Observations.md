@@ -11,3 +11,6 @@
 - Gehrman refers to the hunter’s role almost like a duty or burden.
 - The **Hunter's Dream** seems reactive — it changes after major events.
 - The workshop being locked before and opening later suggests an intentional progression through knowledge or insight.
+- **Most Yharnamites** are unwelcoming, paranoid, or outright hostile — suggesting fear, hysteria, or infection.
+- **Gilbert**, a lone voice of reason, speaks of the **Healing Church** and **blood ministrations** — possibly implying they are central to both the city’s salvation and its downfall.
+- The **Cathedral Ward** seems important and may be tied to the origin of the plague or the hunter’s role.

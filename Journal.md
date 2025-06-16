@@ -25,6 +25,10 @@ Returned to the Hunter’s Dream to find the **Doll** now awake; she can level m
 Found the **Workshop** now accessible. Met an old man inside (Gehrman).  
 Tried to upgrade Saw Cleaver, but I only have 3 out of 4 required Blood Stone Shards.
 
+### NPC Encounters
+- Knocked on many doors throughout Central Yharnam — most responses were hostile, paranoid, or dismissive.
+- One resident, **Gilbert**, spoke to me calmly through a window. He seemed sympathetic and mentioned blood ministrations at the **Healing Church**, located in the **Cathedral Ward**.
+
 ### Key Loot
 - Saw Cleaver  
 - Hunter Pistol  
