@@ -1,44 +1,35 @@
 # Bloodborne Playthrough Journal
 
-## Session 01: Awakening
-**Origin:** Military Veteran  
-**Location:** Iosefka’s Clinic → Hunter’s Dream  
-**Summary:**  
-Woke up strapped to a hospital bed with no prior memory. Mentions of Yharnam and blood cocktails.  
-A beastly wolf creature approached but was suddenly set aflame.  
-Skeletal messengers crawled over me, and a voice said, “They’ve found themselves a Hunter.”  
-Awoke in Iosefka’s Clinic, encountered another wolf-beast — tried to fight barehanded and died.  
-Woke up in the Hunter’s Dream. Received weapons from messengers:
+## Session 01: New Beginnings
+
+**Origin:** Lone Survivor  
+**Location:** Iosefka’s Clinic → Hunter’s Dream → Central Yharnam → Sewers
+
+### Summary:
+Awoke in a clinic, memories lost. Killed a malformed beast using fists.  
+Climbed a ladder and was transported to the **Hunter’s Dream** — a strange graveyard realm with headstones and a derelict workshop.
+
+Received weapons from the messengers:
 - **Saw Cleaver**
 - **Hunter Pistol**
-Returned to the waking world in Iosefka’s Clinic.
 
-## Session 02: Blood and Beasts
-**Location(s):** Central Yharnam, Hunter’s Dream  
-**Objectives:** Explore Central Yharnam, confront Cleric Beast  
-**Major Progress:** Reached the Cleric Beast, met the Doll, unlocked the Workshop
+Met **Gehrman**, an old man in a wheelchair who explained I was now a Hunter and hinted at the dream’s cyclical nature.
 
-### Summary
-Fought through the twisted streets of Central Yharnam, facing hostile townsfolk and beasts.  
-Reached the **Cleric Beast** — managed to chip him to ~60% HP before dying.  
-Returned to the Hunter’s Dream to find the **Doll** now awake; she can level me up.  
-Found the **Workshop** now accessible. Met an old man inside (Gehrman).  
-Tried to upgrade Saw Cleaver, but I only have 3 out of 4 required Blood Stone Shards.
+Returned to **Iosefka’s Clinic**. Met **Iosefka** through her locked door — she warned me away but gave me a **special blood vial**.
 
-### NPC Encounters
-- Knocked on many doors throughout Central Yharnam — most responses were hostile, paranoid, or dismissive.
-- One resident, **Gilbert**, spoke to me calmly through a window. He seemed sympathetic and mentioned blood ministrations at the **Healing Church**, located in the **Cathedral Ward**.
+Ventured into **Central Yharnam**, clearing beasts and crazed townsfolk. Collected numerous **blood vials**, **quicksilver bullets**, and found the **Torch**.
 
-### Key Loot
-- Saw Cleaver  
-- Hunter Pistol  
-- Blood Vials (healing consumable)  
-- Blood Stone Shards (x3)  
-- Molotov Cocktails (highly effective against enemies)  
-- Pebbles (used to lure enemies)  
-- Torch (doubles as light source and weapon — especially fun on dogs)  
-- Multiplayer Items (used for co-op and PvP interactions)
+Knocked on many doors — most responded with fear or anger. One voice stood out:
+- **Gilbert**, a sickly man coughing violently, offered some guidance. He spoke of **blood ministrations**, the **Healing Church**, and mentioned the **Cathedral Ward** as a place of importance.
 
-### Enemies Encountered
-- Cleric Beast (boss)
-- Townsfolk, beasts, dogs, crows
+Also encountered a paranoid woman asking if I knew a safe place — something to return to later.
+
+Chose not to face the **Cleric Beast** yet. Instead, descended into the **Sewers**, encountering giant rats, carrion crows, and mobs of deranged villagers.
+
+Found:
+- **Hunter Set (armor)**
+- **Saw Hunter Badge**
+- **2 Madman’s Knowledge** *(unconsumed)*
+- **8 Blood Stone Shards**
+
+Currently unlevelled. Holding **13,000 Blood Echoes** and **0 Insight**.

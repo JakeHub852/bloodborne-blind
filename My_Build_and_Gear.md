@@ -1,22 +1,22 @@
 # My Build and Gear
 
-**Origin:** Military Veteran
+**Origin:** Lone Survivor
 
 ## Weapons Equipped
 - Right Hand: Saw Cleaver  
-- Left Hand: Hunter Pistol
+- Left Hand: Hunter Pistol  
+- Utility: Torch (recovered)
 
 ## Armor Set
-- Starting gear
+- Hunter Set (found in Sewers)
 
 ## Stats Increased
-- (None yet — leveling not started)
+- None yet — no leveling done
 
 ## Consumables / Key Items
-- Blood Vials  
-- Blood Stone Shards (x3)  
-- Molotov Cocktails  
-- Pebbles  
-- Torch  
-- Multiplayer Items:
-  - (To be specified: Beckoning Bell, Silencing Blank, etc.)
+- Blood Vials (many)  
+- Quicksilver Bullets (many)  
+- Special Blood Vial (from Iosefka)  
+- Madman’s Knowledge ×2 *(unconsumed)*  
+- Blood Stone Shards ×8  
+- Saw Hunter Badge
