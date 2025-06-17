@@ -33,3 +33,5 @@ Found:
 - **8 Blood Stone Shards**
 
 Currently unlevelled. Holding **13,000 Blood Echoes** and **0 Insight**.
+
+Going to do one more sweep to check if I missed anything.
