@@ -12,3 +12,12 @@
 - The sewers are riddled with carrion, corpses, and malformed beasts — the underbelly of Yharnam both literally and symbolically.
 - The **Hunter Set** found in the sewers suggests many hunters died before me.
 - The woman asking about a safe place implies the possibility of shelter, recruitment, or consequences later.
+
+## Session 02
+
+* Insight gained from **Madman’s Knowledge** reveals the metaphysical nature of the hunt and the world.
+* The multiplayer bell item unexpectedly summoned another hunter during the approach to the Cleric Beast — shows the interconnectedness of hunters.
+* The Tiny Music Box seems important and mysterious, tied to Viola and her mother’s story.
+* Hunter Clothes found in the sewers show the presence of previous hunters fallen to the hunt.
+
+---

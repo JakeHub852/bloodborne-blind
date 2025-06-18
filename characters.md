@@ -25,3 +25,26 @@
 **First Encountered:** Session 01 — Central Yharnam window  
 **Description:** Angry and suspicious.  
 **Role:** Asks about safe places. May become important once a refuge is found.
+
+---
+
+## Viola (Old Yharnam)
+
+**First Encountered:** Session 02 — Old Yharnam Sewers
+**Description:** A worried young girl concerned for her mother.
+**Role:** Gives the **Tiny Music Box** — a key item.
+
+---
+Absolutely — here’s Father Gascoigne’s entry for **Characters I Meet** in the older format you prefer, spoiler-safe and clear:
+
+---
+
+## Father Gascoigne
+
+**First Encountered:** Session 02 — On the way to Cleric Beast arena, Central Yharnam
+**Description:** A hunter wielding a saw cleaver, fighting off beasts on a bridge.
+**Role:** A skilled hunter and figure tied to the hunt’s grim realities. A pivotal character encountered before facing the Cleric Beast.
+
+---
+
+
