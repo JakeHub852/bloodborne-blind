@@ -31,4 +31,3 @@
 * Central Yharnam seems emptied after Gascoigne’s fall — the hunt continues elsewhere.
 
 ---
- testing 1 2 12 12
