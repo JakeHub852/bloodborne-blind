@@ -31,3 +31,4 @@
 * Central Yharnam seems emptied after Gascoigne’s fall — the hunt continues elsewhere.
 
 ---
+ ### Can't wait for session 4
