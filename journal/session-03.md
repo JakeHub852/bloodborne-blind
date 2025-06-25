@@ -7,6 +7,7 @@
 
 - Second sweep of the **Aqueduct** revealed 2 missed **Oil Urns**.
 - Defeated **Father Gascoigne** in a tough boss fight. Used **Tiny Music Box** to stun him in phase two.
+- Dropped **Key to Tomb of Oedon Lamp** and some echoes.
 - Returned to **Hunter’s Dream**.
 - Leveled to 24 (Vitality +1, Endurance +1).
 - Revisited windows:

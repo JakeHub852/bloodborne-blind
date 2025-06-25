@@ -13,8 +13,9 @@
 
 ## Father Gascoigne
 
-**First Encountered:** Session 03 — Central Yharnam Boss Fight
-**Description:** A hunter battling madness who shifts into a beast form mid-fight.
+**First Encountered:** Session 03 — Central Yharnam Boss Fight  
+**Description:** A hunter battling madness who shifts into a beast form mid‑fight.  
+**Drop:** **Oedon Tomb Key** (opens Cathedral Ward) & ~1,800 Blood Echoes (NG).  
 **Special:** The **Tiny Music Box** (from Viola) can be used to stun him briefly in his second phase.
 
 ---

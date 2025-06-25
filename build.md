@@ -83,3 +83,25 @@
 * Hunter Set still in use (no new armor acquired)
 
 ---
+
+
+### Session 04
+
+**New Gear Found:**
+
+* **Black Church Set** (Hat, Garb, Gloves, Trousers) — excellent Frenzy & Beasthood resistances.  
+* **Monocular** — allows manual firearm aiming.  
+* **Blood Gem Workshop Tool** — enables socketing blood gems in the Workshop.  
+* **Tempering Blood Gemstone** (Physical ATK +1.1 %).  
+* **Blood Stone Shard ×5** (now holding 9).
+
+**Stats:**
+
+* Level 24 → **25**  
+* **Vitality** raised to **20**  
+* **Insight:** 11
+
+**Key Notes:**
+
+* Received **Fire Paper ×3** and the **Pray** gesture from **Alfred**.  
+* Tested Monocular aiming; potential for long‑range pistol shots.

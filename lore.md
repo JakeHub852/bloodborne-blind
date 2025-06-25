@@ -31,3 +31,12 @@
 * Central Yharnam seems emptied after Gascoigne’s fall — the hunt continues elsewhere.
 
 ---
+
+
+### Session 04
+
+* White‑robed **Church Doctors** reveal direct Healing Church enforcement in Cathedral Ward.  
+* The invisible a strange invisible presence suggests cosmic entities already pervade Yharnam before the Lecture Building encounter.  
+* Alfred’s hints about Byrgenwerth foreshadow an internal schism within the Healing Church.  
+* The **Blood Gem Workshop Tool** links blood manipulation directly to weapon empowerment.  
+* The **Monocular** could symbolise striving for clarity amid growing madness.

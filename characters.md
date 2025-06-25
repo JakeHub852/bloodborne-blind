@@ -1,3 +1,5 @@
+
+
 ---
 
 # Characters I Meet
@@ -49,3 +51,12 @@
 **Role:** A skilled hunter and figure tied to the hunt’s grim realities.
 
 ---
+
+
+---
+
+## Alfred, Hunter of Vilebloods
+
+**First Encountered:** Session 04 — Cathedral Ward (small graveyard)  
+**Description:** A courteous Executioner who hunts Vilebloods while still respecting the Healing Church.  
+**Role:** Provides **Fire Paper ×3**, teaches the **Pray** gesture, and hints at Byrgenwerth & Cainhurst lore.
