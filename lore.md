@@ -40,3 +40,11 @@
 * Alfred’s hints about Byrgenwerth foreshadow an internal schism within the Healing Church.  
 * The **Blood Gem Workshop Tool** links blood manipulation directly to weapon empowerment.  
 * The **Monocular** could symbolise striving for clarity amid growing madness.
+
+
+### Session 05
+
+* Gehrman appears to dwell alone beyond the Workshop — disconnected from the Dream unless summoned.  
+* The **Stump of the Nightmare** may hold hidden purpose.  
+* Hostility toward “outsiders” is spreading — hints at deeper societal fractures in Yharnam.  
+* The Cathedral Ward may serve as a refuge for survivors, suggesting some still maintain hope or order.

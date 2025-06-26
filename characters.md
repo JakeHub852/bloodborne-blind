@@ -50,8 +50,6 @@
 **Description:** A hunter wielding a saw cleaver, fighting beasts.
 **Role:** A skilled hunter and figure tied to the hunt’s grim realities.
 
----
-
 
 ---
 
@@ -60,3 +58,21 @@
 **First Encountered:** Session 04 — Cathedral Ward (small graveyard)  
 **Description:** A courteous Executioner who hunts Vilebloods while still respecting the Healing Church.  
 **Role:** Provides **Fire Paper ×3**, teaches the **Pray** gesture, and hints at Byrgenwerth & Cainhurst lore.
+
+
+---
+
+## Red-Shawled Woman
+
+**First Encountered:** Session 05 — Tomb of Oedon  
+**Description:** Calm woman standing by the lamp in the chapel, offering to shelter those in need.  
+**Role:** Acts as a host for NPCs the player sends to a "safe place."
+
+
+---
+
+## Old Yharnam Lady
+
+**First Encountered:** Session 01 — Central Yharnam window  
+**Description:** Bitter and mistrustful elderly woman who berates the player and blames outsiders.  
+**Role:** Moves to the Cathedral Ward if sent there, continues to lash out at the player.

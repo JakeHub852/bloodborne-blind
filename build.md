@@ -105,3 +105,20 @@
 
 * Received **Fire Paper ×3** and the **Pray** gesture from **Alfred**.  
 * Tested Monocular aiming; potential for long‑range pistol shots.
+
+
+### Session 05
+
+**New Discoveries:**
+
+* Found an upper path behind the Workshop in the Hunter’s Dream.  
+* Discovered a sleeping Gehrman — unresponsive.  
+* Examined the **Stump of the Nightmare**, currently unused.  
+* NPC at Tomb of Oedon offers to shelter survivors.
+
+**Upgrades & Stats:**
+
+* **Endurance** raised to **15**  
+* **Saw Cleaver** upgraded to **+3** (used 8 Blood Stone Shards)  
+* **Level:** 25 → **26**  
+* **Insight:** 9 (unchanged)
