@@ -76,3 +76,12 @@
 **First Encountered:** Session 01 — Central Yharnam window  
 **Description:** Bitter and mistrustful elderly woman who berates the player and blames outsiders.  
 **Role:** Moves to the Cathedral Ward if sent there, continues to lash out at the player.
+
+
+---
+
+## Little Girl in Yharnam
+
+**First Encountered:** Session 01 — Central Yharnam window  
+**Description:** A soft-spoken young girl asking for help finding her mother.  
+**Role:** Given the Red Jeweled Brooch in Session 07 — she responded with sobbing.

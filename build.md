@@ -122,3 +122,23 @@
 * **Saw Cleaver** upgraded to **+3** (used 8 Blood Stone Shards)  
 * **Level:** 25 → **26**  
 * **Insight:** 9 (unchanged)
+
+
+### Session 07
+
+**Gear & Loot:**
+
+* **Red Jeweled Brooch** given to little girl — emotional response only.  
+* **Bloody Messenger Head Bandage** — usable cosmetic on stump messengers.  
+* **Madman’s Knowledge ×2** (held, not used)  
+* Some robed enemies dropped **Blood Stone Shards**  
+* Defeated hostile **hunter** — wielded **hunter’s spear**
+
+**Systems & Tools:**
+
+* Stump of the Nightmare now active — messengers can be adorned with cosmetics.
+
+**Upgrades & Stats:**
+
+* **Strength** raised by +1  
+* **Hunter’s Pistol** upgraded to **+1**
