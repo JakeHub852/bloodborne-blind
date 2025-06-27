@@ -84,4 +84,4 @@
 
 **First Encountered:** Session 01 — Central Yharnam window  
 **Description:** A soft-spoken young girl asking for help finding her mother.  
-**Role:** Given the Red Jeweled Brooch in Session 07 — she responded with sobbing.
+**Role:** Given the Red Jeweled Brooch in Session 06 — she responded with sobbing.

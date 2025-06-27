@@ -1,5 +1,5 @@
 
-# Session 07: Gunfire and Rooftops
+# Session 06: Gunfire and Rooftops
 
 **Origin:** Lone Survivor  
 **Location:** Yharnam → Old Yharnam → Hunter’s Dream

@@ -124,7 +124,7 @@
 * **Insight:** 9 (unchanged)
 
 
-### Session 07
+### Session 06
 
 **Gear & Loot:**
 

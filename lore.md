@@ -50,7 +50,7 @@
 * The Cathedral Ward may serve as a refuge for survivors, suggesting some still maintain hope or order.
 
 
-### Session 07
+### Session 06
 
 * The little girl’s crying after receiving the brooch hints at the grim truth of her fate.  
 * The voice in Old Yharnam suggests some enemies have sentience and warning, not blind aggression.  
