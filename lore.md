@@ -51,14 +51,9 @@
 
 
 ### Session 06
-
 * The little girl’s crying after receiving the brooch hints at the grim truth of her fate.  
 * The voice in Old Yharnam suggests some enemies have sentience and warning, not blind aggression.  
 * The stump activation with the messenger bandage implies a deeper connection between trinkets and the Dream.  
 * Other hunters still roam — not all are friendly.
-
-
-### Session 06
-
 * Iosefka also claims to offer sanctuary to survivors — a second potential safe place.  
 * The player is being asked to choose where to send others, raising questions of trust and consequence.

@@ -1,8 +1,10 @@
-
+## 
 
 ---
 
 # Characters I Meet
+
+
 
 ## Gehrman, the First Hunter
 
@@ -12,13 +14,17 @@
 
 ---
 
+
+
 ## Iosefka
 
 **First Encountered:** Session 01 — Iosefka’s Clinic (behind locked door)
 **Description:** A concerned but distant woman practicing blood healing.
-**Role:** Provides a **special blood vial** and warns not to enter her clinic.
+**Role:** Offers guidance early on, later claims her clinic is a 'safe place' and asks that I send her survivors. Promises a reward.
 
 ---
+
+
 
 ## Gilbert
 
@@ -28,13 +34,13 @@
 
 ---
 
+
+
 ## Yharnamite Woman Seeking Shelter
 
-**First Encountered:** Session 01 — Central Yharnam window
-**Description:** Angry and suspicious.
-**Role:** Asks about safe places. May become important once a refuge is found.
-
----
+**First Encountered:** Session 02 — Behind a locked door in Central Yharnam  
+**Description:** An older woman with a harsh tone who distrusts outsiders and hunters.  
+**Role:** Initially dismissive, but later accepts a safe place when offered. Has since relocated to the Cathedral Ward, where she remains bitter and blameful toward the player.
 
 ## Viola (Old Yharnam)
 
@@ -43,6 +49,8 @@
 **Role:** Gives the **Tiny Music Box** — a key item.
 
 ---
+
+
 
 ## Father Gascoigne
 
@@ -53,6 +61,8 @@
 
 ---
 
+
+
 ## Alfred, Hunter of Vilebloods
 
 **First Encountered:** Session 04 — Cathedral Ward (small graveyard)  
@@ -61,6 +71,8 @@
 
 
 ---
+
+
 
 ## Red-Shawled Woman
 
@@ -71,14 +83,7 @@
 
 ---
 
-## Old Yharnam Lady
 
-**First Encountered:** Session 01 — Central Yharnam window  
-**Description:** Bitter and mistrustful elderly woman who berates the player and blames outsiders.  
-**Role:** Moves to the Cathedral Ward if sent there, continues to lash out at the player.
-
-
----
 
 ## Little Girl in Yharnam
 
