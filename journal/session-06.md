@@ -6,7 +6,7 @@
 
 ### Summary:
 
-- Returned to **Iosefka’s Clinic** — she repeated her offer to shelter humans and mentioned a **reward** for doing so.  
+- Returned to **Iosefka’s Clinic** — she told me her clinic is a **safe place** and offered a **reward** for sending any humans I encounter.  
 - Revisited NPCs across Yharnam: only the little girl responded. Gave her the **Red Jeweled Brooch**, but she just cried quietly.  
 - **Gilbert** was still alive, but said nothing new.  
 - Opened the gate to **Old Yharnam** — greeted by an ominous voice warning me to turn back.  
@@ -23,4 +23,4 @@
 - Returned to the **Hunter’s Dream**.  
 - Tried the **bandage** at the stump behind the Workshop — it worked! Messengers now wear the new headgear.
 
-**Session End:** Location — Hunter’s Dream | Level unchanged | Insight unchanged
+**Session End:** Location — Hunter’s Dream | Level: 26 → 27 | Insight unchanged
