@@ -57,3 +57,18 @@
 * Other hunters still roam — not all are friendly.
 * Iosefka also claims to offer sanctuary to survivors — a second potential safe place.  
 * The player is being asked to choose where to send others, raising questions of trust and consequence.
+---
+
+### Session 07
+
+* Gunman in Old Yharnam defeated by ranged retaliation; fell from ledge.
+* Crossed rooftops and rafters to reach hidden tower; found Messenger Top Hat.
+* Summoned Alfred using 1 Insight to assist against a blood-drenched beast.
+* Beast defeated using Fire Paper; dropped an unknown chalice item.
+* Discovered an elevator in Cathedral Ward leading to a bridge and enemy cluster.
+* Spotted and chased a skittering creature; rewarded with 2 Blood Stone Shards.
+* Dropped into a lower level with poisonous enemies and rafters.
+* Ambushed by a sack-wielding enemy and captured.
+* Awoke in a prison cell labeled “Hypogean Gaol” with 12 Insight.
+* Found gear to increase max bullets and max vials.
+* Equipped a commoner’s outfit sometime during the session.

@@ -142,3 +142,37 @@
 
 * **Strength** raised by +1  
 * **Hunter’s Pistol** upgraded to **+1**
+* Leveled from 26 → 27
+
+---
+
+### Session 07
+
+**Weapons:**
+
+* Hunter Pistol upgraded to +2
+* Still using Saw Cleaver +3 with Fire Paper during boss fight
+
+**Stats:**
+
+* Leveled from 27 → 29
+* +1 Endurance
+* +1 Skill
+
+**Insight:**
+
+* Used 1 Insight to summon Alfred
+* Gained Insight from abduction and prison reveal (9 → 12)
+
+**Items Acquired:**
+
+* Messenger Top Hat
+* Blood Stone Shards ×2 (from skittering beast)
+* Max Vials Upgrade Rune
+* Max Bullets Upgrade Rune
+* Commoner Set (equipped at end of session)
+* Pthumeru Chalice (from boss)
+
+
+---
+

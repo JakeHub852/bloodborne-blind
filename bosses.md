@@ -19,3 +19,13 @@
 **Special:** The **Tiny Music Box** (from Viola) can be used to stun him briefly in his second phase.
 
 ---
+
+
+---
+
+## Blood-Starved Beast
+
+**First Encountered:** Session 07 — Old Yharnam  
+**Description:** A hideously emaciated, twitchy creature saturated in blood.  
+**Drop:** **Pthumeru Chalice**  
+**Special:** Weak to fire — Fire Paper was highly effective. Alfred can be summoned (but contributes little and died early).

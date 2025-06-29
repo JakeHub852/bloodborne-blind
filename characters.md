@@ -90,3 +90,30 @@
 **First Encountered:** Session 01 — Central Yharnam window  
 **Description:** A soft-spoken young girl asking for help finding her mother.  
 **Role:** Given the Red Jeweled Brooch in Session 06 — she responded with sobbing.
+
+---
+
+## Bloodthirsty Hunter (Gunman)
+
+**First Encountered:** Session 06 — Old Yharnam rooftops  
+**Description:** A persistent sniper with a Gatling gun atop a tower  
+**Role:** Hinders progress through Old Yharnam until defeated. Can be knocked off his ledge.
+
+---
+
+## Sack-Wielding Enemy (Unknown)
+
+**First Encountered:** Session 07 — Cathedral Ward  
+**Description:** Towering enemy with a large sack. Knocks player unconscious instead of killing.  
+**Role:** Abducts player to a new location upon defeat — triggers Insight gain and opens up new path.
+
+---
+
+## Blood-Starved Beast
+
+**First Encountered:** Session 07 — Old Yharnam  
+**Description:** Blood-drenched, writhing creature fought alongside Alfred.  
+**Role:** Optional boss with violent, fast attacks. Drops a mysterious chalice on death.
+
+
+
