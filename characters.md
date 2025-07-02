@@ -117,3 +117,10 @@
 
 
 
+---
+
+### Grovelling Prisoner Woman
+
+- **First Encountered:** Session 08 (Hypogean Gaol)
+- **Description:** Found crouched beside jars, pleading for divine relief.
+- **Role:** Contextual NPC in Hypogean Gaol; her presence adds to the oppressive atmosphere of the area.

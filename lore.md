@@ -72,3 +72,14 @@
 * Awoke in a prison cell labeled “Hypogean Gaol” with 12 Insight.
 * Found gear to increase max bullets and max vials.
 * Equipped a commoner’s outfit sometime during the session.
+---
+
+### Session 08
+
+- Awoke in a prison cell after abduction by a sack-carrying enemy.
+- Heard eerie female voice echoing through the prison.
+- Found a woman begging beside jars — highly distressed and likely imprisoned.
+- Encountered strong enemies wielding large sacks, confirming this new area is hostile.
+- Discovered a shortcut by running past enemies to a nearby lamp.
+- New lamp is tied to a completely separate headstone in Hunter’s Dream, indicating a major region shift.
+- Old Yharnam revisited after clearing sniper to sweep for missed loot — found mostly Blood Stone Shards.
